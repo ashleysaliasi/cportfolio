@@ -1,3 +1,4 @@
+[]
 // SAVE THIS FILE AS Payroll.cpp
 #include <iostream>
 #include <string>
